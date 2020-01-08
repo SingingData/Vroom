@@ -17,8 +17,9 @@ Should you want to reconstitute the original recording, the data samples are lab
 
 This data repository was part of a presentation at the WiML workshop at NeurIPS 2019 in Vancouver. The poster presented at that workshop is here.  See NeurIPS poster here.  https://github.com/SingingData/Vroom/blob/master/img/Ryan-NeurIPS-poster.pdf
 
-The goal is to add to this repository over time to enable machin elearning practitioners training models on industrial audio.  Contributions from the community are welcome.
+The goal is to add to this repository over time to enable machin elearning practitioners training models on industrial audio.  Contributions and feedback from the community are welcome.
 
 Thanks,
+
 Patty Ryan
 
