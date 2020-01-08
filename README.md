@@ -19,5 +19,6 @@ This data repository was part of a presentation at the WiML workshop at NeurIPS 
 
 The goal is to add to this repository over time to enable machin elearning practitioners training models on industrial audio.  Contributions from the community are welcome.
 
-
+Thanks,
+Patty Ryan
 
