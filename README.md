@@ -13,7 +13,7 @@ Specifically, this dataset includes:
 - Miscellaneous power motor samples across power tool, aircraft and marine craft categories.
 
 The data samples in this repo are all one second in duration with a 32000 sample rate.  
-Should you want to reconstitute the original recording, the data samples are labeled by sample and sequence of each chunck.
+Should you want to reconstitute the original recording, the data samples are labeled by sample and sequence of each chunk.
 
 This data repository was created to enable industrial sound machine learning, and was part of a presentation at the WiML workshop at NeurIPS 2019 in Vancouver. The poster presented at that workshop is here.  See NeurIPS poster here.  https://github.com/SingingData/Vroom/blob/master/img/Ryan-NeurIPS-poster.pdf
 
