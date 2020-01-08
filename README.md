@@ -1,8 +1,8 @@
 # The VROOM Audio Dataset 
+## VROOM stands for Various Recordings of Other Motors
 Last Updated January 8, 2020
 
 VROOM is a collection of motorized vehicle and motor tool audio recordings for use in machine learning.
-VROOM stands for "Varied Recordings of Outdoor Motors."
 
 This dataset is a complement to the Urban Sound Dataset https://urbansounddataset.weebly.com/. In VROOM, we deliver data samples of industrial motor powered sound with more detailed labels regarding the device, craft, settings and environment.
 
